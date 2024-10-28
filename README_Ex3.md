@@ -1,7 +1,8 @@
 # Php Poo
--Ejercicio 3
--En este ejercicio por lo que he entendido me funciona todo correctamente, mostrando los valores randomizados de los 5 sensores, lo que no he podido implementar ha sido la opcion de que el usuario introduzca el calculo que quiere realizar.
--Xiaomi nos ha pedido que le desarrollemos un ejemplo de cómo podríamos preparar
+- Ejercicio 3
+- En este ejercicio por lo que he entendido me funciona todo correctamente, mostrando los valores randomizados de los 5 sensores, lo que no he podido implementar ha sido la opcion de que el usuario introduzca el calculo que quiere realizar.
+
+- Xiaomi nos ha pedido que le desarrollemos un ejemplo de cómo podríamos preparar
 las clases en PHP para su próximo producto, modelo “Mi Sensor-Controller”, un
 controlador de equipos electrónicos que puede leer 5 sensores de diferentes tipos
 con valores de 0 a 4095 cada sensor (lo que se traduce en que tenemos un entero
